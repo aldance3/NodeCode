@@ -1,0 +1,9 @@
+{
+  "server": {
+    "host": "YOUR.IP.ADDRESS.HERE",
+    "port": 11434
+  },
+  "model": "qwen2.5-coder-7b-instruct-4bit",
+  "mcpServers": {
+  }
+}
